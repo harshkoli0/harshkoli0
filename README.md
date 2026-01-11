@@ -15,7 +15,8 @@
 
 - 📫 **hkoli3319@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16d744Ux__vFXTFrpv-iG5UKMJbvs1A0X/view?usp=sharing](https://drive.google.com/file/d/16d744Ux__vFXTFrpv-iG5UKMJbvs1A0X/view?usp=sharing)
+- 📄 Experience: [View Resume](https://drive.google.com/file/d/16d744Ux__vFXTFrpv-iG5UKMJbvs1A0X/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
