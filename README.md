@@ -6,7 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=harshkoli0&label=Profile%20views&color=0e75b6&style=flat" alt="harshkoli0" />
 </p>
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 ---
 
 ### 👨‍💻 About Me
