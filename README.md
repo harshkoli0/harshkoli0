@@ -1,3 +1,5 @@
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 <h1 align="center">Hi 👋, I'm Harsh Koli</h1>
 <h3 align="center">Aspiring Data Scientist | Machine Learning & Analytics</h3>
 
@@ -8,6 +10,7 @@
 - 🌱 I’m currently learning **Gen Ai**
 
 - 💬 Ask me about **Aspiring Data Scientist passionate about Machine Learning, analytics, and turning data into intelligent solutions.**
+<br clear="both" />
 
 - 📫 **hkoli3319@gmail.com**
 
@@ -27,8 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshkoli0&show_icons=true&locale=en" alt="harshkoli0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkoli0&" alt="harshkoli0" /></p>
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
