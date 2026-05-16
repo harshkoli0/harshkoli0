@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,25,30&text=Harsh%20Koli&fontColor=ffffff&fontSize=75&animation=fadeIn&fontAlignY=35&desc=AI%20ENGINEER%20%40%20TEAMLEASE%20REGTECH&descAlignY=55&descSize=22"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,25,30&text=Harsh%20Koli&fontColor=ffffff&fontSize=75&animation=fadeIn&fontAlignY=35&desc=AI%20ENGINEER%20%40%20%20REGTECH&descAlignY=55&descSize=22"/>
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Harsh koli=PROFILE+VIEWS&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
   <img src="https://img.shields.io/badge/🏆%20Seed%20Challenge-Runner--Up-yellow?style=for-the-badge" />
 </p>
