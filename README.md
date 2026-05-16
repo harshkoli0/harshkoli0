@@ -16,7 +16,7 @@ AI Engineer @ TeamLease Regtech`  |  `BBA Business Analytics`  |  `ML & AI Devel
 
 ---
 
-# $ whoami
+#who am i
 
 yaml
 name: Harsh Koli
