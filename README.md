@@ -6,7 +6,7 @@
 
 <br>
 
-AI Engineer @ TeamLease Regtech`  |  `BBA Business Analytics`  |  `ML & AI Developer`
+`AI Engineer @ TeamLease Regtech`  |  `BBA Business Analytics`  |  `ML & AI Developer`
 
 <br>
 
@@ -16,9 +16,9 @@ AI Engineer @ TeamLease Regtech`  |  `BBA Business Analytics`  |  `ML & AI Devel
 
 ---
 
-#who am i
+# $ whoami
 
-yaml
+```yaml
 name: Harsh Koli
 role: "AI Engineer at TeamLease Regtech"
 education: "BBA - Business Analytics"
