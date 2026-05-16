@@ -1,15 +1,15 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,25,30&text=Harsh%20Koli&fontColor=ffffff&fontSize=75&animation=fadeIn&fontAlignY=38&desc=ARCHITECT%20OF%20INTELLIGENT%20SYSTEMS&descAlignY=62&descSize=20"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,25,30&text=Harsh%20Koli&fontColor=ffffff&fontSize=75&animation=fadeIn&fontAlignY=35&desc=AI%20ENGINEER%20%40%20TEAMLEASE%20REGTECH&descAlignY=55&descSize=22"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+at+TeamLease+Regtech;Machine+Learning+Developer;Building+AI+Applications;RAG+%7C+OCR+%7C+LLMs;Business+Analytics+Student;Future+AI+Architect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=AI+Engineer+at+TeamLease+Regtech;Machine+Learning+Developer;Building+AI+Applications;RAG+%7C+OCR+%7C+LLMs;LangChain+%7C+FastAPI+%7C+Automation;Business+Analytics+Student;Future+AI+Architect" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=social" />
+  <img src="https://img.shields.io/badge/🏆%20Seed%20Challenge-Runner--Up-yellow?style=for-the-badge" />
 </p>
 
 ---
@@ -39,12 +39,14 @@ live_missions:
 specialization:
   - Machine Learning
   - AI Automation
+  - LangChain
   - RAG Architecture
   - OCR Systems
   - Data Analytics
   - Forecasting Models
 
 achievements:
+  award: "🏆 Seed Challenge Runner-Up"
   projects: "Built multiple AI & ML applications"
   research: "Working on AI automation & intelligent systems"
   development: "Frontend + Backend + AI integration"
@@ -54,7 +56,7 @@ currently_learning:
   - System Design
   - Advanced LLM Internals
   - AI Deployment
-  - Time Series Forecasting
+  - LangChain Agents
   - Multi-Agent AI Systems
 
 open_to:
@@ -104,7 +106,7 @@ open_to:
 
 <br>
 
-`Python` `Docling` `FastAPI` `RAG`
+`Python` `LangChain` `FastAPI` `RAG`
 
 </td>
 
@@ -132,13 +134,20 @@ open_to:
 ## Backend & AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,docker,fastapi,git" />
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,docker,fastapi" />
 </p>
 
-## Tools
+## AI & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,github,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-00F7FF?style=for-the-badge&logo=chainlink&logoColor=black"/>
+  <img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OCR-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge"/>
 </p>
 
 </div>
@@ -162,6 +171,7 @@ open_to:
 # $ achievements.log
 
 ```bash
+[🏆] Seed Challenge — Runner-Up
 [✓] AI Engineer at TeamLease Regtech
 [✓] Building AI applications from scratch
 [✓] Developing OCR + RAG systems
