@@ -37,58 +37,89 @@ I'm an **AI Engineer at TeamLease RegTech**, building LLM-powered automation for
 <tr>
 <td width="50%" valign="top">
 
-### ✨ GlowAI: AI Skincare Platform
-Intelligent beauty recommendation system with AI chat, skin-analysis quiz, makeup shade finder and a budget-aware recommendation engine.
+### 🩺 MediAssist: RAG Medical Chatbot
+Answers patient-style medical questions **strictly from uploaded PDFs** using Retrieval-Augmented Generation, so answers stay grounded in the documents instead of hallucinated.
 
-`Next.js 15` `TypeScript` `Zustand` `Groq` `JWT`
+`Python` `LangChain` `RAG` `Vector DB` `LLMs`
 
-[🔗 Repo](https://github.com/harshkoli0/REPO-NAME) • [🌐 Live Demo](https://YOUR-DEMO-LINK)
+[🔗 View Repo](https://github.com/harshkoli0/MediAssist-ChatBot-)
 
 </td>
 <td width="50%" valign="top">
 
-### 📄 OCR + RAG Document Pipeline
-Multilingual document intelligence: PDF OCR extraction, Indic-language translation, smart semantic search and a chatbot over your documents.
+### 🧠 Multi-Agent Research System
+A team of AI agents that plan, search, and write research collaboratively, orchestrated as a graph workflow.
 
-`Python` `LangChain` `FastAPI` `RAG`
+`LangChain` `LangGraph` `Multi-Agent` `Python`
 
-[🔗 Repo](https://github.com/harshkoli0/REPO-NAME)
+[🔗 View Repo](https://github.com/harshkoli0/multiagent-research)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ "Priya": Hinglish Voice Agent
-Real-time phone agent for a real-estate client. Handles Hindi/Hinglish speech, intent detection, barge-in (interruptions) and outbound calls.
+### 📞 AI Calling Agent
+Voice AI agent that holds real phone conversations: speech-to-text, LLM reasoning and text-to-speech in real time.
 
-`Twilio` `Deepgram` `Sarvam TTS` `Groq` `LangGraph`
+`Python` `Voice AI` `STT/TTS` `LLMs`
 
-[🔗 Repo](https://github.com/harshkoli0/REPO-NAME)
+[🔗 View Repo](https://github.com/harshkoli0/ai-calling-)
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 Multi-Agent Analytics Dashboard
-AI business-analytics dashboard where specialized LangGraph agents query, analyse and explain your data in plain English.
+### 💳 Real-Time Fraud Detection App
+ML-powered web app that flags potentially fraudulent financial transactions in real time from key transaction features.
 
-`LangGraph` `Python` `LLMs` `Data Viz`
+`Python` `Scikit-learn` `Streamlit` `ML`
 
-[🔗 Repo](https://github.com/harshkoli0/REPO-NAME)
+[🔗 View Repo](https://github.com/harshkoli0/Fraud-Detection)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 Resume Category Classifier
+NLP system that reads raw resume text and automatically predicts the job category it fits best.
+
+`Python` `NLP` `Scikit-learn` `Streamlit`
+
+[🔗 View Repo](https://github.com/harshkoli0/Resume-Category-)
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 Pricing & Discount Impact Analysis
+Do retail discounts actually drive profit, or quietly erode margins? A data-driven answer with clear visual storytelling.
+
+`Python` `Pandas` `Data Viz` `Business Analytics`
+
+[🔗 View Repo](https://github.com/harshkoli0/pricing-discount-impact-analysis)
 
 </td>
 </tr>
 </table>
 
+### 🔨 Currently Building
+- ✨ **GlowAI**: AI skincare platform with skin-analysis quiz, shade finder and AI chat (`Next.js 15` `TypeScript` `Groq`)
+- 📑 **OCR + RAG Pipeline**: multilingual document intelligence with Indic-language translation (`LangChain` `FastAPI`)
+
 <details>
-<summary><b>📊 Data Analytics Projects (click to expand)</b></summary>
+<summary><b>📂 More Projects: ML apps & data analytics (click to expand)</b></summary>
 <br/>
 
 | Project | What it does | Tools |
 |---|---|---|
-| **Olist E-Commerce Sales Analytics** | Sales, delivery and customer behaviour analysis of a Brazilian marketplace | Python, SQL, Power BI |
-| **PaySim Financial Fraud Analytics** | Detecting fraudulent mobile-money transactions | Python, Pandas, ML |
-| **SpaceX Falcon 9 Launch Analysis** | Predicting first-stage landing success (IBM capstone) | Python, Folium, Scikit-learn |
+| [Customer Segmentation](https://github.com/harshkoli0/Customer-Segmentation) | Groups customers by income & spending with K-Means, deployed as a web app | Python, K-Means, Streamlit |
+| [Crop Recommendation](https://github.com/harshkoli0/Crop-Recommendation) | Recommends the best crop from soil & weather data | Random Forest, Streamlit |
+| [Diabetes Checker](https://github.com/harshkoli0/Diabetes-checker) | Predicts diabetes risk from medical parameters | Flask, Scikit-learn |
+| [Uber Analysis](https://github.com/harshkoli0/Uber-analysis) | End-to-end analytics workflow from raw data to dashboard | SQL, Excel, Power BI |
+| [Tesla Stock Analysis](https://github.com/harshkoli0/Tesla-Stock-Price-Analysis-Visualization) | Statistical analysis & visualization of Tesla price trends | Python, Pandas, Matplotlib |
+| [Bank Marketing Analysis](https://github.com/harshkoli0/Bank-analysis) | Customer behaviour insights from the UCI Bank Marketing dataset | Python, Seaborn |
+| [Danny's Diner Case Study](https://github.com/harshkoli0/Case-Study-1---Danny-s-Diner) | SQL case study answering real business questions | SQL |
+| [SQL Sales Analysis](https://github.com/harshkoli0/SQL_sales_data) | Cleaning & analysing retail sales data with SQL | SQL |
 
 </details>
 
