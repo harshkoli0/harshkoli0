@@ -1,209 +1,150 @@
+<!-- ========================= HEADER ========================= -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,25,30&text=Harsh%20Koli&fontColor=ffffff&fontSize=75&animation=fadeIn&fontAlignY=35&desc=AI%20ENGINEER&descAlignY=55&descSize=22"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:DB2777&height=200&section=header&text=Harsh%20Koli&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20RAG%20%E2%80%A2%20Multi-Agent%20AI&descAlignY=60&descSize=18&animation=fadeIn" alt="header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=AI+Engineer+at+TeamLease+Regtech;Machine+Learning+Developer;Building+AI+Applications;RAG+%7C+OCR+%7C+LLMs;LangChain+%7C+FastAPI+%7C+Automation;Business+Analytics+Student;Future+AI+Architect" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+production+LLM+systems+%F0%9F%A4%96;Multi-agent+workflows+with+LangGraph+%F0%9F%A7%A0;RAG+%2B+OCR+document+intelligence+%F0%9F%93%84;Hindi%2FHinglish+voice+agents+%F0%9F%8E%99%EF%B8%8F" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harsh koli=PROFILE+VIEWS&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
-  <img src="https://img.shields.io/badge/🏆%20Seed%20Challenge-Runner--Up-yellow?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <img src="https://komarev.com/ghpvc/?username=harshkoli0&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile views"/>
 </p>
 
 ---
 
-# $ whoami
+## 👋 About Me
 
-```yaml
-# ─────────────────────────────────────────────────────────────
-#  HARSH KOLI  ·  AI Engineer  ·  ML Developer  ·  Builder
-# ─────────────────────────────────────────────────────────────
+I'm an **AI Engineer at TeamLease RegTech**, building LLM-powered automation for corporate compliance, and a **BBA (Business Analytics)** graduate. I like the full journey from messy data to a working AI product: pipelines, agents, APIs and the UI on top.
 
-identity:
-  location: "India 🇮🇳"
-  education: "BBA Business Analytics"
-
-live_missions:
-  - role: "AI Engineer"
-    org: "TeamLease Regtech"
-    since: "2026"
-    focus: "AI systems · Automation · LLM workflows"
-
-  - role: "Builder & Developer"
-    org: "Personal AI Projects"
-    since: "2025"
-    focus: "RAG systems · OCR pipelines · AI applications"
-
-specialization:
-  - Machine Learning
-  - AI Automation
-  - LangChain
-  - RAG Architecture
-  - OCR Systems
-  - Data Analytics
-  - Forecasting Models
-
-achievements:
-  award: "🏆 Seed Challenge Runner-Up"
-  projects: "Built multiple AI & ML applications"
-  research: "Working on AI automation & intelligent systems"
-  development: "Frontend + Backend + AI integration"
-  learning: "Advanced LLMs · Multi-agent systems · Production AI"
-
-currently_learning:
-  - System Design
-  - Advanced LLM Internals
-  - AI Deployment
-  - LangChain Agents
-  - Multi-Agent AI Systems
-
-open_to:
-  - AI Internships
-  - Research Collaborations
-  - Open Source
-  - Freelance Projects
-  - Global Opportunities
-```
+- 🏢 Building **production AI systems** for regulatory and secretarial automation at TeamLease RegTech
+- 🧠 Focused on **RAG, multi-agent systems (LangGraph) and LLM workflows**
+- 🎙️ Built a **Hindi/Hinglish real-estate voice agent** that handles live phone calls
+- 📊 Background in **data analytics**: IBM Data Science & Google Data Analytics certified
+- 🏆 **Seed Challenge Runner-Up**
+- 🤝 Open to **AI internships, research collaborations, freelance work and open source**
 
 ---
 
-# $ ls -la ./current-projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### ✨ GlowAI: AI Skincare Platform
+Intelligent beauty recommendation system with AI chat, skin-analysis quiz, makeup shade finder and a budget-aware recommendation engine.
 
-## 🔹 AI Skincare Platform
+`Next.js 15` `TypeScript` `Zustand` `Groq` `JWT`
 
-### Intelligent beauty recommendation system
-
-- AI skincare analysis
-- Makeup shade matching
-- Budget recommendation engine
-- OCR ingredient scanner
-- Personalized AI assistant
-
-<br>
-
-`React` `Next.js` `Tailwind` `LLMs`
+[🔗 Repo](https://github.com/harshkoli0/REPO-NAME) • [🌐 Live Demo](https://YOUR-DEMO-LINK)
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-## 🔸 OCR + RAG Pipeline
-
-### AI powered multilingual document system
-
-- PDF OCR extraction
-- Indic language translation
-- AI chatbot integration
-- Document intelligence
-- Smart search pipeline
-
-<br>
+### 📄 OCR + RAG Document Pipeline
+Multilingual document intelligence: PDF OCR extraction, Indic-language translation, smart semantic search and a chatbot over your documents.
 
 `Python` `LangChain` `FastAPI` `RAG`
 
-</td>
+[🔗 Repo](https://github.com/harshkoli0/REPO-NAME)
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ "Priya": Hinglish Voice Agent
+Real-time phone agent for a real-estate client. Handles Hindi/Hinglish speech, intent detection, barge-in (interruptions) and outbound calls.
+
+`Twilio` `Deepgram` `Sarvam TTS` `Groq` `LangGraph`
+
+[🔗 Repo](https://github.com/harshkoli0/REPO-NAME)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Multi-Agent Analytics Dashboard
+AI business-analytics dashboard where specialized LangGraph agents query, analyse and explain your data in plain English.
+
+`LangGraph` `Python` `LLMs` `Data Viz`
+
+[🔗 Repo](https://github.com/harshkoli0/REPO-NAME)
+
+</td>
 </tr>
 </table>
 
----
+<details>
+<summary><b>📊 Data Analytics Projects (click to expand)</b></summary>
+<br/>
 
-# $ cat ./tech-stack.json
+| Project | What it does | Tools |
+|---|---|---|
+| **Olist E-Commerce Sales Analytics** | Sales, delivery and customer behaviour analysis of a Brazilian marketplace | Python, SQL, Power BI |
+| **PaySim Financial Fraud Analytics** | Detecting fraudulent mobile-money transactions | Python, Pandas, ML |
+| **SpaceX Falcon 9 Launch Analysis** | Predicting first-stage landing success (IBM capstone) | Python, Folium, Scikit-learn |
 
-<div align="center">
-
-## Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mysql,r" />
-</p>
-
-## Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
-
-## Backend & AI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,docker,fastapi" />
-</p>
-
-## AI & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/LangChain-00F7FF?style=for-the-badge&logo=chainlink&logoColor=black"/>
-  <img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OCR-00F7FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge"/>
-</p>
-
-</div>
+</details>
 
 ---
 
-# $ github-stats --show
+## 🛠️ Tech Stack
 
-<div align="center">
+**AI / ML**
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-4B32C3?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+**Languages, Backend & Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,fastapi,nextjs,react,tailwind,postgres,mongodb,docker,git,github,linux&perline=13" alt="skills"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# $ achievements.log
-
-```bash
-[🏆] Seed Challenge — Runner-Up
-[✓] AI Engineer at TeamLease Regtech
-[✓] Building AI applications from scratch
-[✓] Developing OCR + RAG systems
-[✓] Working on ML forecasting models
-[✓] Learning advanced LLM architecture
-[✓] Building production AI workflows
-```
-
----
-
-# $ connect --social
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
+**Data & BI**
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel%20VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+</p>
 
 ---
 
-<div align="center">
+## 📈 GitHub Stats
 
-### ⚡ "Building intelligent systems powered by AI"
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshkoli0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkoli0&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harshkoli0&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+`System Design` • `Advanced LLM Internals` • `AI Deployment & MLOps` • `Agentic AI Patterns`
+
+---
+
+<p align="center">
+  <i>"Turning data into decisions, and decisions into intelligent systems."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DB2777,50:7C3AED,100:4F46E5&height=100&section=footer" alt="footer"/>
+</p>
